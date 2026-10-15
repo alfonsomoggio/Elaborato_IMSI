@@ -1,6 +1,8 @@
 # BCI department 
 Repository for passive _BCI_ team.  
 
+Project developed for the Instrumentation and Measurements for Smart Industry course, focused on the design of a robotic arm controlled through a wearable bracelet and an EEG-based headset. My contribution focused on the passive Brain-Computer Interface (BCI), aimed at monitoring operator fatigue and attention levels through brain activity analysis.
+
 ## Dependencies
 DSP Toolbox <br>
 statistics and machine learning toolbox <br>
